@@ -6,6 +6,20 @@ $(document).ready(function(){
         }else{
             $('.navbar').removeClass("sticky");
         }
+
+        // scroll-up button show/hide script
+        if(this.scrollY > 500){
+            $('.scroll-up-btn').addClass("show");
+        }else{
+            $('.scroll-up-btn').removeClass("show");
+        }
+    });
+    
+    // slide-up script
+    $('.scroll-up-btn').click(function(){
+        $('html').animate({scrollTop: 0});
+        // removing smooth scroll on slide-up button click
+        $('html').css("scrollBehavior", "auto");
     });
     
     // toggle menu/navbar script
@@ -14,13 +28,13 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-        // typing text animation script
-        var typed = new Typed(".typing", {
-            strings: ["Ml Expert", "Web Developer", "Core Java Developer", "App Designer", "Freelancer"],
-            typeSpeed: 100,
-            backSpeed: 60,
-            loop: true
-        });
+    // typing text animation script
+    var typed = new Typed(".typing", {
+        strings: ["Ml Expert", "Web Developer", "Core Java Developer", "App Designer", "Freelancer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
     // typing text animation script
     var typed = new Typed(".typing-2", {
