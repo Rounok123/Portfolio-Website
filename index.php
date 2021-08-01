@@ -36,7 +36,7 @@ Link:   https://rounok-portfoil.herokuapp.com/ -->
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#skills">Skills</a></li>
-        <li><a href="#teams">Team</a></li>
+        <li><a href="#teams">Achivements</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div class="menu-btn">
