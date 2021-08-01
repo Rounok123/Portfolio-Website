@@ -1,3 +1,3 @@
 # portfolio-website
 
- link: https://rounok-portfoil.herokuapp.com/
+ link:  https://rounok-portfolio.herokuapp.com/
