@@ -169,48 +169,55 @@ Link:  https://rounok-portfoil.herokuapp.com/ -->
 
     <section class="teams" id="teams">
       <div class="max-width">
-        <h2 class="title">My teams</h2>
+        <h2 class="title">My Achivements</h2>
         <div class="carousel owl-carousel">
           <div class="card">
             <div class="box">
-              <img src="./image/img-1.png" alt="" />
+              <img src="./image/img-1.jpg" alt="" />
               <div class="text">Rounok Das</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-2.jpg" alt="" />
               <div class="text">Dipsikha Banerjee</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-3.jpg" alt="" />
               <div class="text">Someone name</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-4.jpg" alt="" />
               <div class="text">Someone name</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-5.jpg" alt="" />
               <div class="text">Someone name</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-6.jpg" alt="" />
               <div class="text">Someone name</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+            </div>
+          </div>
+          <div class="card">
+            <div class="box">
+              <img src="./image/img-7.jpg" alt="" />
+              <div class="text">Rounok Das</div>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
         </div>
