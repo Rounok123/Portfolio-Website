@@ -56,7 +56,7 @@ html{
 /* navbar styling---------------------------------------------- */
 
 .navbar{
-    z-index: 1;
+    z-index: 11;
     display: flex;
     position: fixed;
     width: 100%;
