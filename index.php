@@ -174,49 +174,50 @@ Link:  https://rounok-portfoil.herokuapp.com/ -->
           <div class="card">
             <div class="box">
               <img src="./image/img-1.jpg" alt="" />
-              <div class="text">Rounok Das</div>
+              <div class="text">Data Science</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-2.jpg" alt="" />
-              <div class="text">Dipsikha Banerjee</div>
+              <div class="text">Web Gis</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-3.jpg" alt="" />
-              <div class="text">Someone name</div>
+              <div class="text">Web Development</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-4.jpg" alt="" />
-              <div class="text">Someone name</div>
+              <div class="text">Virtual Reality</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-5.jpg" alt="" />
-              <div class="text">Someone name</div>
+              <div class="text">Ml Project</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-6.jpg" alt="" />
-              <div class="text">Someone name</div>
+              <div class="text">Core JAVA</div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
           <div class="card">
             <div class="box">
               <img src="./image/img-7.jpg" alt="" />
-              <div class="text">Rounok Das</div>
+              <div class="text">Digitak Marketing
+              </div>
               <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             </div>
           </div>
