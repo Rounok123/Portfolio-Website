@@ -213,6 +213,7 @@ html{
     border-radius: 6px;
 }
 .about .about-content .right, .skills .skills-content .left{
+    /* border: 2px solid red; */
     width: 40%;
 }
 .about .about-content .right .text, .skills .skills-content .left .text{
@@ -615,11 +616,11 @@ footer span a:hover{
         font-size: 23px;
     }
     .home #home-content .text-2{
-        font-size: 60px;
+        font-size: 47px;
         font-weight: 500;
     }
     .home #home-content .text-3{
-        font-size: 30px;
+        font-size: 23px;
         margin: 3px 0px;
     }
     .home #home-content .text-3 span{
@@ -627,23 +628,31 @@ footer span a:hover{
         color: crimson;
     }
     /* -----------Responsibe about section----------------------- */
-    .left img{
-        height: 200px;
-        width: 200px;
+    .about .about-content .left img{
+        height: 218px;
+        width: 296px;
+        margin-bottom: 8px;
     }
     .about .about-content{
         display: block;
         margin: auto;
-    }
-    .left{
-        display: inline-block;
-        width: 100%;
         text-align: center;
     }
     .right{
-        text-align: center;
+        /* text-align: center; */
         display: block;
         margin: auto;
+    }
+    .about .about-content .right, .skills .skills-content .left {
+        /* border: 2px solid red; */
+        width: 98%;
+        margin-top: 8px;
+    }
+    .about .about-content .right .text span {
+        display: block;
+    }
+    .about .about-content .right p, .skills .skills-content .left p {
+        font-size: 17px;
     }
     /* -----------Responsibe services section----------------------- */
 
@@ -653,26 +662,45 @@ footer span a:hover{
     .services .serv-content .card{
         margin: auto;
         margin-top: 5px;
-        margin-bottom: 2px;
+        margin-bottom: 25px;
         width: 20rem;
         height: 13rem;
     }
-        /* -----------Responsibe skills section----------------------- */
+    .services .serv-content .card .card-text {
+        font-size: 15px;
+    }
+        /* -----------Responsibe team/skills section----------------------- */
     .skills .skills-content{
         display: block;
+    }
+    .teams .title{
+        font-size: 25px;
     }
     .skills .skills-content .left{
         display: inline-block;
         width: 100%;
         text-align: center;
     }
+    .teams .carousel .card img {
+        height: 162px;
+        width: 194px;
+        border: 2px solid crimson;
+        margin-top: 10px;
+    }
+    .teams .carousel .card {
+        padding: 0px 0px;
+    }
     /* -----------Responsibe Contact section----------------------- */
     .contact .contact-content{
         display: block;
     }
     .contact .contact-content .left {
-        width: 40%;
+        width: 100%;
         display: block;
         margin: auto;
+    }
+    .skills .skills-content .right {
+        width: 95%;
+        margin-top: 16px;
     }
 }
